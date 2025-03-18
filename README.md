@@ -1,1 +1,1 @@
-<h1 color = "red" align="center"> AMIGO SECRETO </h1>
+<h1 align="center" style="color: red;"> AMIGO SECRETO </h1>
