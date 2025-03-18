@@ -14,9 +14,10 @@ function adicionarAmigo(){
     } else {
         amigos.push(nome);
         console.log(amigos);
-    }
+    } 
 
     exibirTextoNaTela('h2', 'Digite o nome dos seus amigos');
+    
     nome = document.querySelector('input');
     nome.value = '';
 
