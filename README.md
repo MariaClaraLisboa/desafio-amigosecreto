@@ -11,7 +11,7 @@
 
 <h2> Descrição do projeto: </h2>
 <p>
-  Esse é um projeto simples desenvolvido em HTML javaScript, proposto pelo curso da ONE, denominado de "Challenge amigo secreto". Nesse código o usuário entra com os nomes no campo "Digite um nome", o quais são armazenados em uma lista; Após adicionar todos os participantes, o usuário pode realizar o sorteio clicando no botão "Sortear amigo", então o programa retorna um nome selecionado aleatoriamente. 
+  Esse é um projeto simples desenvolvido em HTML e javaScript, proposto pelo curso da ONE, denominado de "Challenge amigo secreto". Nesse código o usuário entra com os nomes no campo "Digite um nome", o quais são armazenados em uma lista; Após adicionar todos os participantes, o usuário pode realizar o sorteio clicando no botão "Sortear amigo", então o programa retorna um nome selecionado aleatoriamente. 
 </p>
 <br/>
 <h2>Vídeo de exemplo do funcionamento:</h2>
